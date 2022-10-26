@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanKuper
 - 👀 I’m interested in Web development jobs
 - 💞️ I’m looking to collaborate on frontend and backend projects
-- 📫 How to reach me https://www.linkedin.com/in/ivankuper/
+- 📫 How to reach me https://www.linkedin.com/in/ivankuper/ & MyPortfolio https://ivankuper.netlify.app/
 
 <!---
 IvanKuper/IvanKuper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
