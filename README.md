@@ -2,7 +2,7 @@
 
 Web developer from Israel, building full-stack apps with React, Node.js and MongoDB. I'm open to web development jobs and to freelance projects.
 
-**Portfolio:** [ivankuper.netlify.app](https://ivankuper.netlify.app/) · **LinkedIn:** [ivankuper](https://www.linkedin.com/in/ivankuper/)
+**Portfolio:** [ivankuper.github.io](https://ivankuper.github.io/) · **LinkedIn:** [ivankuper](https://www.linkedin.com/in/ivankuper/)
 
 ## Tech
 JavaScript · TypeScript · React · Node.js · Express · MongoDB · SQL · HTML · CSS · Bootstrap · Sass
